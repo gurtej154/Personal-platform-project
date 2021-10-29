@@ -1,8 +1,18 @@
+:root {
+    --primary-color: #35a22c;
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    
 }
 
 header {
@@ -21,7 +31,7 @@ header::after {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, .3);
+    background-color: rgba(0, 0, 0, .5);
 }
 
 header nav.navbar {
@@ -43,4 +53,30 @@ header nav.navbar .navbar-nav .nav-item {
 header nav.navbar .navbar-nav .nav-item .nav-link {
     padding: .5rem;
     color: #fff;
+    transition: .3s;
+}
+
+header nav.navbar .navbar-nav .nav-item .nav-link:hover, header nav.navbar .navbar-nav .nav-item .nav-link.active {
+    color: var(--primary-color)
+}
+
+header .header-content {
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+header .header-content img {
+    border-radius: 50%;
+    width: 170px;
+    height: 170px;
+    border: 3px solid #fff;
 }
