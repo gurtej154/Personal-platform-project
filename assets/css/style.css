@@ -35,6 +35,9 @@ header nav.navbar .navbar-brand {
 
 header nav.navbar .navbar-nav .nav-item {
     margin-right: .5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
 }
 
 header nav.navbar .navbar-nav .nav-item .nav-link {
