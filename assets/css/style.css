@@ -60,6 +60,10 @@ header nav.navbar .navbar-nav .nav-item .nav-link:hover, header nav.navbar .navb
     color: var(--primary-color)
 }
 
+header nav.navbar .navbar-toggler {
+    color: #fff;
+}
+
 header .header-content {
     position: absolute;
     z-index: 999;
@@ -84,10 +88,17 @@ header .header-content img {
 header .header-content .content {
     z-index: 999;
     margin-top: 20px;
+    text-align: center;
 }
 
 header .header-content .content h2 {
     color: #fff;
     font-weight: 600;
-    font-size: 25px;
+    font-size: 40px;
+}
+
+header .header-content .content p {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
 }
