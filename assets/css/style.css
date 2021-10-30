@@ -38,6 +38,14 @@ header nav.navbar {
     z-index: 999;
 }
 
+header nav.navbar i {
+    color: #fff;
+    padding: .5rem;
+    font-size: 20px;
+    cursor: pointer;
+    z-index: 999;
+}
+
 header nav.navbar .navbar-brand {
     color: #fff;
     font-size: 25px;
