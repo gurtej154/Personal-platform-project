@@ -38,7 +38,7 @@ header nav.navbar {
     z-index: 999;
 }
 
-header nav.navbar i {
+ i {
     color: #fff;
     padding: .5rem;
     font-size: 20px;
