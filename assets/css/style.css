@@ -28,7 +28,7 @@ img {
 header {
     width: 100%;
     height: 100vh;
-    background-image: url(/assets/images/riekus-wLXk9eHYE0A-unsplash.jpg);
+    background-image: url(assets/images/riekus-wLXk9eHYE0A-unsplash.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -237,7 +237,7 @@ header .header-content .content p {
 }
 
 .services {
-    background-image: url(/assets/images/fernando-hernandez-lVuV7AcfOrY-unsplash.jpg);
+    background-image: url(assets/images/fernando-hernandez-lVuV7AcfOrY-unsplash.jpg);
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -379,7 +379,7 @@ header .header-content .content p {
 }
 
 .life-history {
-    background: url(/assets/images/omid-armin-ztvxSNFJih0-unsplash.jpg);
+    background: url(assets/images/omid-armin-ztvxSNFJih0-unsplash.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -485,7 +485,7 @@ header .header-content .content p {
 }
 
 .contact {
-    background: url(/assets/images/christian-wiediger-WkfDrhxDMC8-unsplash.jpg);
+    background: url(assets/images/christian-wiediger-WkfDrhxDMC8-unsplash.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
