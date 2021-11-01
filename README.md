@@ -47,7 +47,61 @@ With the following template in mind, the project was produced in the following m
 
 It is detrimental to take in the User-Interface design of a website, so when the visitor visits the website they are greeted in a certain manner that will take them on a journey through your site. Particulary, a portfolio website should present it self as a journey into the life of the portfolio owner, who, what, where, why and how of them as an individual and what sets them apart of their counterparts (other developers). 
 
+<br>
+
 ![Home-page](./Home-page.png)
 
+<br>
 
+## User-Experience 
 
+User-Experience is also crucially important to how the website unfolds to the visitor, as it allows the individual to experience their feelings towards that platform. Personally, when i visit a website and something unexpected or something unique pops up or if i click it, i receieve this feeling of innovation and enjoyment of using an app. The personal Portfolio website is designed to deliver a unique and mesmirising experience to the visitor. 
+
+<br>
+
+![Home-page](./UX.gif)
+
+<br>
+
+## Licence 
+
+<br>
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+
+[MIT License](LICENSE)
+
+Copyright (c) 2021 Gurtej Singh
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+<br>
+
+## Contribute
+
+<br>
+
+To contribute, modify or edit in general;
+
+Open Visual Studio Code
+Open or create a new project folder
+Open a integrated terminal or git bash
+Attain the repo link from this repository
+
+https://github.com/gurtej154/Weatherex-project.git
+
+or
+
+git@github.com:gurtej154/Weatherex-project.git
+
+Start accessing the project's content!
+
+<br>
+
+## All Rights Reserved
+
+© 2021 Personal Portfolio Website | All rights reserved | Designed by Gurtej Singh
