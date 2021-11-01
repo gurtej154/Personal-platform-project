@@ -336,7 +336,7 @@ header .header-content .content p {
     border-radius: 5px;
     cursor: pointer;
     transition: .2s;
-    margin: 20px;
+    margin: 30px;
 }
 
 .gallery .images div:hover img {
