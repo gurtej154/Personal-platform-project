@@ -47,7 +47,7 @@ With the following template in mind, the project was produced in the following m
 
 It is detrimental to take in the User-Interface design of a website, so when the visitor visits the website they are greeted in a certain manner that will take them on a journey through your site. Particulary, a portfolio website should present it self as a journey into the life of the portfolio owner, who, what, where, why and how of them as an individual and what sets them apart of their counterparts (other developers). 
 
-![Screenshot](./Quizify.png)
+![Screenshot](./Home-page.png)
 
 
 
