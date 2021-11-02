@@ -1,6 +1,6 @@
 # Personal Portfolio Project - Gurtej Singh
 
-Welcome to the repository of Personal Portfolio Project, which showcases my skills, services, projects and experiences in mulitple area's, but mostly focusing on software developement. 
+Welcome to the repository of Personal Portfolio Project, which showcases my skills, services, projects, and experiences in multiple area's, but mostly focusing on software development. 
 
 ## Table of Contents - Personal Portfolio Project
 
