@@ -665,3 +665,15 @@ footer .footer .footer-bottom {
         margin-bottom: 20px;
     }
 }
+
+@media (max-width: 450px) {
+    .about .about-buttons a {
+        padding: 0.2rem;
+        /* font-size: 15px; */
+    }
+
+    .gallery .images div img {
+        margin: 0px;
+        margin-bottom: 30px;
+    }
+}
