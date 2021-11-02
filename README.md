@@ -92,13 +92,19 @@ Open or create a new project folder
 Open a integrated terminal or git bash
 Attain the repo link from this repository
 
+```
+
 https://github.com/gurtej154/Personal-platform-project.git
+
+```
 
 or
 
+```
+
 git@github.com:gurtej154/Personal-platform-project.git
 
-Start accessing the project's content!
+```
 
 <br>
 
